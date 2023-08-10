@@ -1,2 +1,2 @@
 #!bon/bash
-
+tr "[a-z]" "[A-z]"
